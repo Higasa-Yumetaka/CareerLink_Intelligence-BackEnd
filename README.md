@@ -2,6 +2,8 @@
 
 本项目使用[Express.js](https://expressjs.com/)创建
 
+## 请在运行项目前使用/BackEnd/db/careerlink_intelligence.nb3恢复数据库
+
 ## 要运行本项目，请按以下流程操作：
 
 ### 1. 安装[Node.js](https://nodejs.org/en)
@@ -17,6 +19,8 @@ npm -v
 在本项目根目录下：
 
 ### `npm install` 以安装项目依赖
+
+### 在/BackEnd/db/dbConfig.js配置数据库
 
 ### `npm start` 启动项目
 
